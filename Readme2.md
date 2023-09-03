@@ -604,16 +604,16 @@ int main() {
 ---
 >Manual de Usuario
 ## Usuarios del programa de triangulo
-### El siguiente programa genera datos al azar y los datos de las ecuaciones se realizan automaticamente usted solo debe iniciar el programa y disfrutr de los datos posibles del traigno con su hipotenusa tomando en cuenta la ley triple de pitagoras
+### El siguiente programa genera datos al azar y los datos de las ecuaciones se realizan automaticamente usted solo debe iniciar el programa y disfrutar de los datos posibles del triangulo con su respectiva hipotenusa tomando en cuenta la ley triple de pitagoras.
 ## Usuarios del programa del juego ahorcado
-### El siguiente programa trata en ingresar una palabra y esa palabra secreta la tendra que adivinar el siguiente jugador con un maximo de 7 oportunidades
+### El siguiente programa trata en ingresar una palabra y esa palabra secreta la tendra que adivinar el siguiente jugador con un maximo de 7 oportunidades por lo tanto solo debe de ingrezar letras para formar una palabra y disfrutar del juego con sus 7 oportunidades, si pierde en ek juego solo reinicie y comience a jugar de nuevo junto a otros jugadores.
   ---
   ---
   >Manual de Tecnico
 
-## Usuarios del programa de triangulo
-### El siguiente programa genera datos al azar y los datos de las ecuaciones se realizan automaticamente
+## Personal del programa de triangulo
+### El siguiente programa genera datos al azar y los datos de las ecuaciones se realizan automaticamente, si algun dato falla revisar como esta declarado alguna variable y tener en cuenta que el usuario no debe de hacer nada mas que observar, si realizar algo fuera de lo normal solo se debera reiniciar el programa e indicarle que disfrute del programa sin realizar nada.
 ## Usuarios del programa del juego ahorcado
-### El siguiente programa trata en ingresar una palabra y esa palabra secreta la tendra que adivinar el siguiente jugador con un maximo de 7 oportunidades
+### El siguiente programa trata en ingresar una palabra y esa palabra secreta la tendra que adivinar el siguiente jugador con un maximo de 7 oportunidades, por lo tanto tener en cuenta que el usuario puede ingresar numeros u otros signos que el programa con eso datos ingresados no funcionara y lo unico que se debe de realizar es el reinicio del programa e indicarle que solo letras debe ingresar.
   ---
   ---
