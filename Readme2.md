@@ -602,6 +602,10 @@ int main() {
   ```
  ---
 ---
+>Link de Youtube para ver funcionamiento de los programas
+[https://www.youtube.com/watch?v=XT-8QUql4yU]
+ ---
+---
 >Manual de Usuario
 ## Usuarios del programa de triangulo
 ### El siguiente programa genera datos al azar y los datos de las ecuaciones se realizan automaticamente usted solo debe iniciar el programa y disfrutar de los datos posibles del triangulo con su respectiva hipotenusa tomando en cuenta la ley triple de pitagoras.
